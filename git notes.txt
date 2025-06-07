@@ -32,3 +32,5 @@ git switch "branch name here"       to switch in that specified branch
 git branch                          to see branch in which git is currently working on
 
 git push -u origin master           to push all commits to th github
+
+/*this is to undo reverte file on github */
