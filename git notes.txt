@@ -13,3 +13,22 @@ git init							: to initiate git into a directory
 git add                             : The staging environment (or staging area) is like a waiting room for your changes.
 
                                     You use it to tell Git exactly which files you want to include in your next commit.
+
+git status                          to see which files are not in staging area
+
+git commit -m "message here"        this command will create commit with message and take a snapshot of the curent work
+
+git log                             to see all commmits
+
+git log --oneline                   to see all commits in one single line 
+
+cd                                  to change directory (eg: cd ~    = this will lead to desktop)
+cd /d                                this will lead to d drive of system
+cd /e                                this will lead to e drive of system
+
+git branch                          to see branches git is working on currently
+git branch "name here w/o quotes"   to create a new branch
+git switch "branch name here"       to switch in that specified branch
+git branch                          to see branch in which git is currently working on
+
+git push -u origin master           to push all commits to th github
