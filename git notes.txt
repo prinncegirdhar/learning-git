@@ -1,0 +1,15 @@
+git --version 							: used to check the version of git
+
+git config --global user.name "name here" 			: is used to set username on github to sync with github account
+
+git config --global user.email "email here"			: is used to set email id on github to sync with github account
+
+git config --list 						: to see all the details from git config
+
+before initiating git user git status command to know whether git have made .git file in that folder or not. if fatal error occured that means there is no git repository there so here we can initiate git in it by giving following command on git
+
+git init							: to initiate git into a directory
+
+git add                             : The staging environment (or staging area) is like a waiting room for your changes.
+
+                                    You use it to tell Git exactly which files you want to include in your next commit.
