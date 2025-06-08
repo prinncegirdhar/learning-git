@@ -39,3 +39,4 @@ hello we are going ahead from this point on 08 june 2025
 
 touch "file name here.extention"            to create new file of that extention like .txt, .xls, .doc etc 
 
+git diff                                    show difference between working directory and staging area
