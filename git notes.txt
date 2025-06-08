@@ -33,13 +33,13 @@ git branch                          to see branch in which git is currently work
 
 git push -u origin master           to push all commits to th github
 
- prince
-/*this is to undo reverte file on github */
-
+Temporary merge branch 1
 /*this is to undo reverte file on github */
 
 hello we are going ahead from this point on 08 june 2025
 
 touch "file name here.extention"            to create new file of that extention like .txt, .xls, .doc etc 
 
- master
+
+/*this is to undo reverte file on github */
+ Temporary merge branch 2
