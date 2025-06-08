@@ -1,2 +1,2 @@
-hello kaise ho
-let's see how modified files shows git
+helo here i will delete al folders from my computer 
+then will try to recover from github
