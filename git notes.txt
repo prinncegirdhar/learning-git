@@ -33,4 +33,8 @@ git branch                          to see branch in which git is currently work
 
 git push -u origin master           to push all commits to th github
 
-/*this is to undo reverte file on github */
+
+touch "file name here.extention"            to create new file of that extention like .txt, .xls, .doc etc 
+
+git diff                                    show difference between working directory and staging area
+ master
