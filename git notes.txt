@@ -44,4 +44,4 @@ touch "file name here.extention"            to create new file of that extention
 /*this is to undo reverte file on github */
  Temporary merge branch 2
 
-git restore "filename"                      to unstage staged file
+git restore "filename"                      to unstage staged file or even restores delted file but not commited 
