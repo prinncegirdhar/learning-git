@@ -48,4 +48,8 @@ git diff                                    tells difference from working direct
 git commit -a -m "message here"             skip staging area and commit directly 
 git rm --cached "filename here"		    this will remove file from staging area even after making a commitgit
 
+<<<<<<< Updated upstream
 git status -s 				0000000000000000000000000000000000000099999999999999999999999999999999999999999999999999888888888888888888888888888888888888888888888888888887777777777777777777777777777777777777777777777777777777777777777777777	shows git short status 
+=======
+git status -s 					shows git short status 
+>>>>>>> Stashed changes
